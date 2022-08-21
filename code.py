@@ -4,7 +4,7 @@ from tqdm import tqdm
 import os
 
 class Main:
-    def __init__(self):
+    def __init__(self) -> None:
         pass
     
     def calRange(valMax,valMin,valImg):#calculate x & y width
